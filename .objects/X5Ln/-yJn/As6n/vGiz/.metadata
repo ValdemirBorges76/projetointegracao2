@@ -1,0 +1,17 @@
+﻿{
+  "Id": "vGizw_67C0eNN_HEI48OGw",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/vGizw_67C0eNN_HEI48OGw",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/As6nmd8eQ0qVV4jjx0Uuvg",
+  "Name": "Type Into 'Municípios'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-08-29T22:30:20.8138847Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T22:32:08.21542Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

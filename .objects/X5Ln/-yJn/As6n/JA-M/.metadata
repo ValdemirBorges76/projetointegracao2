@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JA-MVXMbDU-0riNsuXwoOg",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/JA-MVXMbDU-0riNsuXwoOg",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/As6nmd8eQ0qVV4jjx0Uuvg",
+  "Name": "Site Ibge",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-08-29T21:46:33.9733019Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T21:49:43.4666662Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

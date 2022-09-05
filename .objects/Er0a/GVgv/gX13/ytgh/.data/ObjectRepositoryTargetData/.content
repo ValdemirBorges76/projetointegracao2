@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j6YI7WSVkE-SG5L44ouvCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="490, 474, 914, 1867" FriendlyName="'Resultado da'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="45573927-6b77-42e5-b57b-6a9ee70515f1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Busca CEP' /&gt;" SearchSteps="Selector" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="18d32eba0179ea84db5fb22d3cbee9ef.png" xmlns="">0RBH4ICiI9USAv9IQ6JjMKg</imageRef>
+    </TargetAnchorable>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Logradouro/Nome' ReferenceIdx='0' Name='Logradouro/Nome' IsDeleted='true'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Bairro/Distrito' ReferenceIdx='1' Name='Bairro/Distrito' IsDeleted='true'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Localidade/UF' ReferenceIdx='2' Name='Localidade/UF'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='CEP' ReferenceIdx='3' Name='CEP'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

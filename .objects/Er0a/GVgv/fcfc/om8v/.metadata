@@ -1,0 +1,14 @@
+﻿{
+  "Id": "om8v03lK1EecXXPDlHhOCQ",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/om8v03lK1EecXXPDlHhOCQ",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/fcfcj7W17kW-HlB9AS97qQ",
+  "Name": "Click 'Buscar'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-08-29T15:03:51.3218613Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T15:03:51.3218613Z"
+}

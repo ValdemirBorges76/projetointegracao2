@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ytgh7N30ZU68iXmd2xAdog",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/ytgh7N30ZU68iXmd2xAdog",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/gX13kATRbUWkzkVW2y_saQ",
+  "Name": "Extract Table Data",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-29T15:06:42.7632379Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T15:06:42.7632379Z"
+}

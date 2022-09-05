@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ExtractMetadataObjectReference ContentHash="dme5GNZFfUi3H_q4tApbSg" Value="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Logradouro/Nome' attr='text' /&gt;&lt;column name='Bairro/Distrito' attr='text' /&gt;&lt;column name='Localidade/UF' attr='text' /&gt;&lt;column name='CEP' attr='text' /&gt;&lt;/extract-table&gt;" xmlns="clr-namespace:UiPath.UIAutomationNext.Activities.Design.ViewModels;assembly=UiPath.UIAutomationNext.Activities.Design" />

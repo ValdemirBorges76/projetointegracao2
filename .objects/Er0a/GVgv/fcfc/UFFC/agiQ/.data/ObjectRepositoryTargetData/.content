@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FbPNZF4yCkWeLmWLHxXQmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://buscacepinter.correios.com.br/app/endereco/index.php" DesignTimeRectangle="847, 363, 72, 23" ElementType="Text" FriendlyName="'Próximo'" FullSelectorArgument="&lt;webctrl aaname='Próximo' parentid='navegacao-resultado' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Próximo' parentid='navegacao-resultado' tag='A' type='' class='botao proximo' check:innerText='Próximo' /&gt;" Guid="dd133f68-c927-4f60-a68d-e44c5c77a6cb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEwAAAAbCAYAAADWHGlkAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAM5SURBVGhD7ZfPSxtREMfzJ/S4V2/tscdcPXr0mKtHTxIEsUEQI16CB7GXEiSXIKUEloWlURoEoQlEtBDQYCG2CCbUUBZEjKjh25l9bzdvk2h2rfFHux8YSObtvp39vnnzZiMICUQoWEBCwQISChaQULCAhIIF5JEEa6GY0RGJm8jWb6TvZfI4gv0sYWwqh9iXU+l4uXgEa2yYiNCLqRadzyNuVHBgXcmrgmLBXKF5MlXKs7+gXcPqXA7a3Db2LqXvCRgomGtxA8nKubzyCXjOgo1vOFvnCq3mMcysAc0WrYDCEwb7HBggmMM5zPci05IV6fpP8SkYcPRZjNmC/SpjnDNuqYyjs+9YXdYxwv+nKQOdXfu7itUVE9FpIbQ2o2NifR+NazlOtCpbiNJYT327qCKZoPsSWyhedJUKemZDXibi0PFu5wTF9bz7rMi0jvEPZRzUfyCX6fi1GRPJryfyZgUfsTr4FMxCbpkn05E6pL+OYIt5TPKL8W+2lW90JVEvIxZX/KpJEQTnot0gf2xDytBuIJvia/lZogW5WzDpD2CT23aUAt+xCnzVsNyarGEJKrhtciuBaqkSDs7oxdotWGecJydIL4ix0bUKGpey77JqSNtCUEZ9rAkfQ8U8ZYuuU/ae9groQlnHz+wnGB9IOw20OLZrC3u6KeLl7Ct1/AU5t7uwQWMl+grW19RT0g10E4WuFeCea5THFko4ki4XaxcTPDZLwkuXDa2ymilairY6v6SHOwRTfcxt/uYuYqr/HrEOFGwkYWAiU0axqfRhtwXEUF3i+952rYzgGOl5npdSXXoEN26NjEzlkVN2TIcHEKx7jnvE6rvoe3howdy6Jax3OzL/qmBOmi/vyjqh4Nw3r26BTnZF01uIz9J432/OIQgWONZhCKYU0pheg2UX0hu06vtILgr/mKEc7YfbdmvhHChOq2HXFU8dG4JgQWMlhiAYwR/btxzVnk8bp9+aUjOqhb2sOM28/dkwBCP8xioZjmBMc5+aQQNvZDDajIHJT2oz2KcHc2hT/bBXnlsNpxMekmDMwFg7eAQLGYwr2KtZw1Y3tF57vbQpVQoF82V9BQvxRyhYIIA/n8CWEBgUfkAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Busca CEP' /&gt;" SearchSteps="FuzzySelector, Image" Visibility="Interactive" />
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Logradouro/Nome' ReferenceIdx='0' Name='Logradouro/Nome' IsDeleted='true'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Bairro/Distrito' ReferenceIdx='1' Name='Bairro/Distrito' IsDeleted='true'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Localidade/UF' ReferenceIdx='2' Name='Localidade/UF'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='CEP' ReferenceIdx='3' Name='CEP'&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

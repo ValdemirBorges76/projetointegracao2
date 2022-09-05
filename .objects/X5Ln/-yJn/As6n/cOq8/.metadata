@@ -1,0 +1,14 @@
+﻿{
+  "Id": "cOq8TzLHdEWAP5B9MctS7g",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/cOq8TzLHdEWAP5B9MctS7g",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/As6nmd8eQ0qVV4jjx0Uuvg",
+  "Name": "Click 'Página Inicial'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-30T13:24:58.9275543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-30T13:24:58.9275543Z"
+}

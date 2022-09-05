@@ -1,0 +1,14 @@
+﻿{
+  "Id": "gX13kATRbUWkzkVW2y_saQ",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/gX13kATRbUWkzkVW2y_saQ",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/GVgvz13vIUGmdli6BxeQOg",
+  "Name": "SIte Correios",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-08-29T14:56:56.7424416Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T14:56:56.7424416Z"
+}

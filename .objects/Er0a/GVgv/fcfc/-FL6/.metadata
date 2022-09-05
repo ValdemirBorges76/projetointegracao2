@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-FL6huFpXEOsheCyanPt7Q",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/-FL6huFpXEOsheCyanPt7Q",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/fcfcj7W17kW-HlB9AS97qQ",
+  "Name": "Extracao da Tabela",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-08-29T15:08:23.6553371Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T22:26:58.9751271Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

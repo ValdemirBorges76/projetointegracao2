@@ -1,0 +1,14 @@
+﻿{
+  "Id": "agiQbyY4xkqIuBi6ZCvfWw",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/agiQbyY4xkqIuBi6ZCvfWw",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/UFFCe--O1UOrpIyjF-2q-Q",
+  "Name": "Botão Ligação seguinte",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-08-30T20:15:56.5511781Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-30T20:15:56.5511781Z"
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "sAmM2T1XT02CaDRixdCKcw",
+  "Reference": "XbUwGR-Qm0CTPwfvgQ8_ow/sAmM2T1XT02CaDRixdCKcw",
+  "ParentRef": "XbUwGR-Qm0CTPwfvgQ8_ow/fcfcj7W17kW-HlB9AS97qQ",
+  "Name": "Type Into 'Digite um'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-08-29T15:03:08.0188424Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-29T22:24:46.8553585Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
